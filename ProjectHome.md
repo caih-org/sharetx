@@ -1,0 +1,1 @@
+Since Celtx decided to charge to use their web services, I started this project to provide an open source replacement for project sharing and typesetting providing both a web-based interface and a Celtx extension.
